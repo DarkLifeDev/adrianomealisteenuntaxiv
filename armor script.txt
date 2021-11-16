@@ -1,0 +1,11 @@
+while true do
+wait(1)
+workspace.Regen.Purchases.SPurchases.Armors:FindFirstChild("[Wood Armor]\n[20 Wins]").Button.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+wait(2)
+game.workspace["0_054x"].ArmorTag:Destroy()
+wait(1)
+workspace.Regen.Purchases.SPurchases.Armors:FindFirstChild("[Wood Armor]\n[20 Wins]").Button.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+wait(2)
+game.workspace["0_054x"].ArmorTag:Destroy()
+workspace.Regen.Purchases.SPurchases.Armors:FindFirstChild("[Wood Armor]\n[20 Wins]").Button.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+end 
